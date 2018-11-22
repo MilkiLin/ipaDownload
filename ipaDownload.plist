@@ -14,9 +14,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.XXX.XXX</string>
+                <string>com.elotlottery.testks</string>
                 <key>bundle-version</key>
-                <string>1.00</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>releaseNotes</key>
